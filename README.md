@@ -43,4 +43,4 @@ Não são necessárias bibliotecas ou dependências externas.
 
 O projeto utiliza Git e GitHub para controlar as versões. Foram utilizadas as branches `main`, `develop`, `feature` e `hotfix`.
 
-As mensagens de commit seguem o padrão Conventional Commits, utilizando tipos como `feat`, `fix`, `docs` e `chore`.
+As mensagens de commit seguem o padrão Conventional Commits, utilizando tipos como `fix`, `docs` e `chore`.
